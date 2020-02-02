@@ -134,3 +134,12 @@ header.masthead .bg-circle-4 {
 .btn-secondary:focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
 }
+
+
+.aboutus {
+    font-size: 24px;
+}
+
+.gramsection {
+    padding: 20px;
+}
